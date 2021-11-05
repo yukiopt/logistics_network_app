@@ -1,5 +1,6 @@
 # logistics_network_app
-数理最適化勉強会で遊ぶためのアプリです。「どの倉庫からどの店舗に商品を届ければいいか」という小売チェーンなどが直面する問題に対して、政令指定都市を倉庫・行政地区を店舗と捉えて解いています。
+数理最適化勉強会で遊ぶためのアプリです。「どの倉庫からどの店舗に商品を届ければいいか」という小売チェーンなどが直面する問題に対して、政令指定都市を倉庫・行政地区を店舗と捉えて解いています。  
+[アプリはこちら](https://share.streamlit.io/yukiopt/logistics_network_app/logistics_network.py)
   
 出典：  
 ・[全国の地方自治体の名称](https://www.soumu.go.jp/denshijiti/code.html)  
